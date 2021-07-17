@@ -1,5 +1,5 @@
 <p align="center">
- <img src="" alt="template"  width="600px"/>
+ <img src="https://user-images.githubusercontent.com/84260347/126024689-473f402c-ae00-4841-ae8d-0b8cf690f648.png" alt="template"  width="300px"/>
 </p>
 
 ## 💻 Projeto
@@ -16,7 +16,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - Javascript
 - ReactJs
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [desse link]().
