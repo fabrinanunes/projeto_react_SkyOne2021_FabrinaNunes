@@ -19,7 +19,7 @@ ul {
 }
 
 .square {
-  background: #fff;
+  background: rgb(243, 247, 226);
   border: 1px solid #999;
   float: left;
 
@@ -51,4 +51,25 @@ ul {
 
 .game-info{
   margin-left: 20px;
+}
+
+border{
+  border: 1px solid #636e72;
+  border-radius: 5px;
+}
+
+button:hover{
+  background-color: #81ecec;
+  border: 1px solid #636e72;
+  border-radius: 2px;
+}
+
+footer{
+  margin-top: 100px;
+  height: 35px;
+  width: 100vw;
+  background-color: #81ecec;
+  color: #2d3436;
+  text-align: center;
+  text-decoration: none;
 }
